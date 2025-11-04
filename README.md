@@ -33,8 +33,12 @@ It provides insights into how **income, gender, age, and commute distance** infl
 ## 📸 Original Dashboard Preview
 ![Dashboard Preview](Original_Image_Preview.png)
 
+---
+
 ## 📸 Enhanced Dashboard Preview
 ![Dashboard Preview](Enhanced_Image_Preview.png)
+
+---
 
 ## 🔗 Author
 - Created by **[Girish Kumar V]**
