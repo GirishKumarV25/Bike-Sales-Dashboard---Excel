@@ -30,15 +30,11 @@ It provides insights into how **income, gender, age, and commute distance** infl
 - Expand analysis with **geographical visualizations**.  
 - Transition to **Power BI or Tableau** for automation and deeper analytics.  
 
----
-
 ## 📸 Original Dashboard Preview
 ![Dashboard Preview](Original_Image_Preview.png)
 
 ## 📸 Enhanced Dashboard Preview
 ![Dashboard Preview](Enhanced_Image_Preview.png)
-
----
 
 ## 🔗 Author
 - Created by **[Girish Kumar V]**
